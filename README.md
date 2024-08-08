@@ -1,1 +1,1 @@
-Machine Learning Program using Python for Image Caption Generation.
+Machine Learning Program for Image Caption Generation.
